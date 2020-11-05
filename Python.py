@@ -36,7 +36,7 @@ def keliling_jajar_genjang(a,t):
     return keliling
     
 pilihan-1
-while pilihan!-0:
+while pilihan!=0:
     print("1- Menghitung Luas bujur sangkar")
     print("2- Menghitung Keliling bujur sangkar")
     print("3- Menghitung Luas persegi panjang")
