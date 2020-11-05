@@ -1,4 +1,4 @@
-# Fungsi-Python-Mareta-dan-Triana
+#Fungsi-Python-Mareta-dan-Triana
 #Program Menghitung Luas dan Keliling Bangun Datar
 #Jobsheet 4 Dasar Pemrograman
 
